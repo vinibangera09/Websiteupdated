@@ -59,7 +59,8 @@
     z-index: -1111;
 }
 
-@media screen and(max-width:800px){
+@media screen and(max-width:800px)
+{
     .show-menu-btn,.hide-menu-btn{
         display:block;
     }
@@ -102,7 +103,7 @@
 .site-header 
 {
     background-color: #dfe7af;
-    color: #bbe406;
+    color: #0d0e0d;
     height: 100vh;
     height:1800px;
     font-family:monospace;
@@ -112,7 +113,7 @@
     align-items: center;
     font-size: 130%;
     line-height: 280%;
-    background: url('../img.jpg') no-repeat center center fixed;
+    background: url('../img.jpg') no-repeat center center;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
