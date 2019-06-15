@@ -113,7 +113,7 @@
     align-items: center;
     font-size: 130%;
     line-height: 280%;
-    background: url('../img.jpg') no-repeat center center;
+    background: url('../img.jpg') no-repeat center center fixed;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
